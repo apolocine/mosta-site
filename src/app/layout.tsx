@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({ variable: '--font-geist-mono', subsets: ['latin']
 
 export const metadata: Metadata = {
   title: '@mosta — Application Toolkit for Node.js & Next.js',
-  description: 'Multi-dialect ORM, Authentication, Audit, Settings, Setup, and Face Recognition — 6 packages, one ecosystem.',
+  description: 'Multi-dialect ORM, Auth, RBAC, Audit, Ticketing, Face Recognition, Media, UI, Menu, Scan, Init — 13 packages, one ecosystem.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
